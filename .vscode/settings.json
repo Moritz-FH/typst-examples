@@ -1,0 +1,8 @@
+{
+    "tinymist.fontPaths": [
+        "${workspaceFolder}/src/assets/fonts"
+    ],
+    "tinymist.formatterMode": "typstyle",
+    "tinymist.lint.enabled": true,
+    "tinymist.rootPath": "${workspaceFolder}"
+}
