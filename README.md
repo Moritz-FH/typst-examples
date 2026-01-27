@@ -1,2 +1,11 @@
-# typst-examples
-Examples for the typst language.
+# Typst Examples
+## Dependencies
+- [Justfile](https://github.com/casey/just)
+- [Typst](https://github.com/typst/typst)
+- [typestyle](https://github.com/typstyle-rs/typstyle)
+
+Run
+```shell
+just
+```
+for more informations.
